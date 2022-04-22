@@ -1,9 +1,9 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: LIMITER SPEEDPLUS MANAGER
-#	DESENVOLVIDO POR:	EDUARDO_VPN
+#	SCRIPT: LIMITER SSHPLUS MANAGER
+#	DESENVOLVIDO POR:	CRAZY_VPN
 #	CONTATO TELEGRAM:	http://t.me/crazy_vpn
-#	CANAL TELEGRAM:	SPEEDNNET VPN
+#	CANAL TELEGRAM:	http://t.me/sshplus
 #====================================================
 clear
 database="/root/usuarios.db"
