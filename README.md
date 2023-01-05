@@ -1,6 +1,6 @@
-# SPEEDPLUS ⚡
+# SCOTT PRO ⚡
 
-# @EDUARDO VPN
+# @SCOTTSSH
 
 *PROJETO EM BETA🍷🗿
 ```
