@@ -1648,7 +1648,7 @@ elif [[ "$resposta" = '3' ]]; then
 		clear
 		if ps x | grep -w WebSocket | grep -v grep 1>/dev/null 2>/dev/null; then
 		figlet 'SPEED NET' | lolcat
-		echo -e "\E[41;1;37m        💎 WEBSOCKET SECURITY 💎             \E[0m"
+		echo -e "\E[41;1;37m        💎 WEBSOCKET SECURITY 2.0💎             \E[0m"
 				echo ""
 				fun_wsswsocksoff() { 
 					pkill WebSocket
@@ -1670,7 +1670,7 @@ elif [[ "$resposta" = '3' ]]; then
 				fun_socks
 			else
 			figlet 'SPEED NET' | lolcat
-		echo -e "\E[44;1;37m         💎 WEBSOCKET SECURITY 💎            \E[0m"
+		echo -e "\E[44;1;37m         💎 WEBSOCKET SECURITY 2.0 💎            \E[0m"
 				echo ""
 				echo "$(echo -e "\033[1;32mQUAL PORTA QUER UTILIZAR? \033[1;37m")"
 				read -p '★ Digite a porta: ' portasucury
@@ -1692,11 +1692,11 @@ elif [[ "$resposta" = '3' ]]; then
 					}
 				}
 				echo ""
-				echo -e "\033[1;32mINICIANDO O WEBSOCKET SECURITY\033[1;33m"
+				echo -e "\033[1;32mINICIANDO O WEBSOCKET SECURITY 2.0\033[1;33m"
 				echo ""
 				fun_bar 'fun_iniwssocks'
 				echo ""
-				echo -e "\033[1;32mWEBSUCURY Ativado. Bom uso pequeno gafanhoto. ;)\033[1;33m"
+				echo -e "\033[1;32mWEBSUCURY Ativado. Eduardo.dev. ;)\033[1;33m"
 				sleep 3
 				fun_socks
 			fi
